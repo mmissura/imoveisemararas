@@ -5,7 +5,7 @@ export const App = () => {
     <div className="w-full overflow-x-hidden bg-map">
       <div className="bg-black">
         <h1 className="text-4xl text-center font-bold 2xl:text-8xl xl:text-8xl lg:text-6xl mt-10 text-yellow-300">
-          Imóveis em Pirassununga
+          Imóveis em Araras
         </h1>
         <h2 className="text-xl text-center 2xl:text-5xl xl:text-4xl lg:text-3xl 2xl:mt-8 xl:mt-8 lg:mt-8 mt-6 text-white">
           Encontre imobiliárias da cidade e bons negócios!
